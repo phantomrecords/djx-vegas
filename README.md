@@ -1,4 +1,4 @@
-# djx-vegas.us
+# README
 
 This repository corresponds to the domain **djx-vegas.us**.
 
